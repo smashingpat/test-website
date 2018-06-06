@@ -1,0 +1,15 @@
+{
+  "name": "test-site",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "parcel example/index.html",
+    "deploy": "node tasks/publish.js"
+  },
+  "main": "index.js",
+  "author": "Patrick Gerritsen <patt.gerr@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^1.2.0",
+    "parcel-bundler": "^1.8.1"
+  }
+}
