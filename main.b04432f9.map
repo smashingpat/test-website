@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["Error"],"mappings":";AAAA,MAAM,IAAIA,KAAJ,CAAU,MAAV,CAAN","file":"main.b04432f9.map","sourceRoot":"../example","sourcesContent":["throw new Error('aaah')\n"]}
