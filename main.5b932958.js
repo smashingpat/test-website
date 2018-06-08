@@ -9,4 +9,4 @@ var e=require("process");function n(){var e=i();return e||("undefined"!=typeof n
 },{"os":8,"process":10}],4:[function(require,module,exports) {
 "use strict";var e=require("detect-browser"),r=(0,e.detect)();console.log(r);
 },{"detect-browser":6}]},{},[4], null)
-//# sourceMappingURL=/test-site/main.5b932958.map
+//# sourceMappingURL=/test-website/main.5b932958.map
