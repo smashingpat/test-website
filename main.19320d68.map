@@ -1,1 +1,0 @@
-{"version":3,"sources":["main.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,GAAR,CAAY,cAAZ","file":"main.19320d68.map","sourceRoot":"../example","sourcesContent":["console.log('hello world!');\n"]}
